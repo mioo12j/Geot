@@ -1,1 +1,2 @@
-print("hellp")
+for i in range(30):
+    print("hellp")
